@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Adrian Cavallino Pramana Putra**.\
+Perkenalkan nama saya **Adrian Cavallino Pramana Putra**  
 
-Saya seorang **Mahasiswa** di Universitas Dian Nuswantoro.\
+Saya seorang **Mahasiswa** di Universitas Dian Nuswantoro 
 
 <!--
 **AdrianCavallino/AdrianCavallino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
